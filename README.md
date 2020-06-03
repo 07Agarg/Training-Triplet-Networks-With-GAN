@@ -15,7 +15,7 @@ Input size of generator: 100
 
 
 # Important techniques used for training.
-1. Weight initialization to standard normal value with mean 0 and variance 0.05 for convolutional layers and to variance of 0.02 for fully connected layers.
+1. Weight initialization to standard normal value with mean 0 and variance 0.05 for convolutional layers and to variance of 0.02 for fully connected layers. <br />
 2. Weight normalization.
 3. Batch norm layers in initial layers of generator.
 4. Set output layer of generator to Sigmoid non-linearity. 
