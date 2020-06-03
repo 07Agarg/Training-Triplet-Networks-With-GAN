@@ -5,12 +5,12 @@ This repository contains PyTorch implementation of the [Paper](https://arxiv.org
 
 # Hyperparameters
 
-Batch Size: 100
-Pre-train learning rate: 0.0003
-Train learning rate: 0.0003
-Pre-train epochs: 100
-Training epochs: 30
-Input size of generator: 100
+- Batch Size: 100 <br />
+- Pre-train learning rate: 0.0003
+- Train learning rate: 0.0003
+- Pre-train epochs: 100
+- Training epochs: 30
+- Input size of generator: 100
 
 
 
