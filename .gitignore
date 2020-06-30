@@ -1,0 +1,8 @@
+
+DATASET/MNIST/raw/train-labels-idx1-ubyte.gz
+*.gz
+*.pt
+DATASET/MNIST/raw/t10k-labels-idx1-ubyte
+DATASET/MNIST/raw/train-labels-idx1-ubyte
+DATASET/MNIST/raw/train-images-idx3-ubyte
+DATASET/MNIST/raw/t10k-images-idx3-ubyte

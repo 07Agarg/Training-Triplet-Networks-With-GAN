@@ -1,5 +1,5 @@
 # Training-Triplet-Networks-With-GAN
-This repository contains PyTorch implementation of the [Paper](https://arxiv.org/pdf/1704.02227.pdf) Training Triplet Networks With GAN on MNIST Dataset
+This repository contains PyTorch implementation of the [Paper](https://arxiv.org/pdf/1704.02227.pdf) Training Triplet Networks With GAN (Triplet-GANs) on MNIST Dataset
 
 
 
@@ -58,8 +58,10 @@ This repository contains PyTorch implementation of the [Paper](https://arxiv.org
 
 ![Generated Images after training](https://github.com/07Agarg/Training-Triplet-Networks-With-GAN/blob/master/RESULT/train/Generated_Images_GANS_20.jpg)
 
+TSNE-Plots After Training
 
+![TSNE-Plot](https://github.com/07Agarg/Training-Triplet-Networks-With-GAN/blob/master/RESULT/LatentTSNE.jpg)
 
 # References
-1. Improved techniques for training GANs. [Paper](https://arxiv.org/pdf/1606.03498.pdf) (NeurIPS, 2016)
-2. Lasagne Code: https://github.com/maciejzieba/tripletGAN
+1. Improved techniques for training GANs. [[Paper]](https://arxiv.org/pdf/1606.03498.pdf) (NeurIPS, 2016), [[Code]](https://github.com/openai/improved-gan)
+2. Official Code Repo (Lasagne Code): https://github.com/maciejzieba/tripletGAN
